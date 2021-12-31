@@ -1,4 +1,5 @@
 # How to deploy a Django project in a Linux server
+## [Follow a step by step guide here](https://costapiy.com/deploy_django_project_linux_server/)
 1. [Deploy bare metal linux server](https://github.com/costapiy/server_setup/blob/main/1.Server%20deploy.md)
     - Update server software
     - Setup domain name
